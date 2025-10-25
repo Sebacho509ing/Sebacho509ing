@@ -1,8 +1,7 @@
 ## Hi, I'm Sebastian. 👋
-<p align="center">
+
     Soy Tecnólogo en Gestión de Redes Informáticas (estudiante de Ingeniería Informática).
   <img width="600" height="200" alt="Diseño sin título" src="https://github.com/user-attachments/assets/383a83d6-6fc8-476f-a18f-c698e7036568" />
-</p>
 
 🔐 Poseo experiencia en la implementación y auditorías internas de sistemas de gestión de seguridad basados en ISO/IEC 27001 y PCI DSS, además de haber dictado capacitaciones en políticas de seguridad de la información.
 
