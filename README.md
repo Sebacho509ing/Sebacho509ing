@@ -1,6 +1,6 @@
 ## Hi, I'm Sebastian. 👋
-  Soy Tecnólogo en Gestión de Redes Informáticas (estudiante de Ingeniería Informática).
 <p align="center">
+    Soy Tecnólogo en Gestión de Redes Informáticas (estudiante de Ingeniería Informática).
   <img width="600" height="200" alt="Diseño sin título" src="https://github.com/user-attachments/assets/383a83d6-6fc8-476f-a18f-c698e7036568" />
 </p>
 
