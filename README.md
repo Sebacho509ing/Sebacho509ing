@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Sebastian. 👋
+<img width="1536" height="1024" alt="ChatGPT Image 25 oct 2025, 12_37_48" src="https://github.com/user-attachments/assets/6c9a66eb-8cd2-442f-85a0-fb42ae1d9e86" />
+
+
+
+
 
 <!--
 **Sebacho509ing/Sebacho509ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
